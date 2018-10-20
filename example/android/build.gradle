@@ -45,8 +45,8 @@ allprojects {
 }
 
 ext {
-    firebaseVersion = "11.8.0"
-    googlePlayServicesVersion = "11.8.0"
+    firebaseVersion = "16.0.3"
+    googlePlayServicesVersion = "15.0.1"
 }
 
 task wrapper(type: Wrapper) {
