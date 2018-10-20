@@ -45,9 +45,9 @@ allprojects {
 }
 
 ext {
-    buildToolsVersion = "26.0.2"
     firebaseVersion = "11.8.0"
     googlePlayServicesVersion = "11.8.0"
+}
 
 task wrapper(type: Wrapper) {
     gradleVersion = '4.4'
